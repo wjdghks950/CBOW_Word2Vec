@@ -1,4 +1,4 @@
-#Continuous-bag of words (CBOW)
+# Continuous-bag of words (CBOW)
 
 The Continuous-bag of words (CBOW), along with Skip-gram model, is used frequently in NLP using deep learning.
 Given a range N of context words before and after the target word, it tries to predict the current(target) word.
@@ -8,7 +8,7 @@ This code is an implementation of an exercise given by PyTorch tutorials in "Get
 	https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html#getting-dense-word-embeddings
 
 
-##References
+## References
 
 For further studies about word embeddings, read the papers below:
 
